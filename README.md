@@ -7,6 +7,8 @@ I am passionate about working on Machine Learning Project.
 I am skilled in Python, MySQL, Machine Learning, Deep Learning, Data Analysis, NLP, EDA, Statistics, Excel, Tableau, Power BI.
 
 
+Headlines
+
 👋 I am a data scientist
 
 👀 I’m currently working on Machine Learning and Deep learning projects.
@@ -17,4 +19,4 @@ I am skilled in Python, MySQL, Machine Learning, Deep Learning, Data Analysis, N
 
 ✨ Ask me about Artificial Intelligence, DataScience, Chess.
 
-📫 How to reach me ramanmagar1998@gmail.com
+📫 How to reach me vijayapatil23998@gmail.com
