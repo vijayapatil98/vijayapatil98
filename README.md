@@ -7,7 +7,7 @@ I am passionate about working on Machine Learning Project.
 I am skilled in Python, MySQL, Machine Learning, Deep Learning, Data Analysis, NLP, EDA, Statistics, Excel, Tableau, Power BI.
 
 
-######0d1117 Headlines
+###### Headlines
 
 👋 I am a data scientist
 
