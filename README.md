@@ -1,3 +1,5 @@
+Hi there Vijaya Patil 👋
+
 I am Vijaya Patil from Pune, Maharashtra. I am a technology enthusiast, competent, well-focused Data Scientist Enthusiest
 
 I am passionate about working on Machine Learning Project.
