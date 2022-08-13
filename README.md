@@ -1,4 +1,4 @@
-Hi there Vijaya Patil 👋
+##### Hi there Vijaya Patil 👋
 
 I am Vijaya Patil from Pune, Maharashtra. I am a technology enthusiast, competent, well-focused Data Scientist Enthusiest
 
